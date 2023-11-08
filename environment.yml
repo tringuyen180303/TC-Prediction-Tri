@@ -1,0 +1,10 @@
+name: tc
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - wrf-python
+  - cartopy
+  - cfgrib
