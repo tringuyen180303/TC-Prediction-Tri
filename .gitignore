@@ -156,3 +156,6 @@ tuner*.json
 #.git
 .git
 
+# Large file
+ibtracs.ALL.list.v04r00.csv
+
