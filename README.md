@@ -1,3 +1,4 @@
+This is from Quan Nguyen - master student at IU 2021-2023. I am working with him for this project under Professor Chanh Kieu at Department of Earth and Atmospheric at IU.
 # Tropical Cyclogenesis Forecast using Deep Models
 
 ## Dependencies
